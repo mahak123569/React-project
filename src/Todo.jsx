@@ -4,6 +4,7 @@ function App(){
         <div>
             <Todo />
             hello todo
+            welcome
         </div>
     )
 }
