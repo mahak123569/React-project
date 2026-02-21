@@ -1,10 +1,9 @@
-import Header from "./Header";
 
-function App() {
+
+function Header() {
   return (
     <div>
-      <Header />
-      <h5>hello</h5>
+      <h1>hello</h1>
       <h1>world</h1>
     </div>
   );

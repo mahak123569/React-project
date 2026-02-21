@@ -1,11 +1,9 @@
-import Todo from "./Todo";
-function App(){
-    return(
+function Todo() {
+    return (
         <div>
-            <Todo />
-            hello todo
-            welcome
+            hello todo welcome to react
         </div>
-    )
+    );
 }
-export default App;
+
+export default Todo;
