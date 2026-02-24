@@ -28,3 +28,14 @@ This project demonstrates component-based architecture, reusable UI, and clean s
 ---
 
 ## 📁 Project Structure
+react-project/
+│
+├── public/
+├── src/
+│ ├── components/
+│ ├── App.jsx
+│ ├── main.jsx
+│
+├── index.html
+├── package.json
+└── README.md
