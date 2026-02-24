@@ -7,7 +7,7 @@ This project demonstrates component-based architecture, reusable UI, and clean s
 
 ## 📌 Features
 
-- ⚛️ Built with React
+- ⚛️ Built with React.
 - ⚡ Fast development using Vite
 - 📂 Component-based structure
 - 🎨 Clean and responsive UI
