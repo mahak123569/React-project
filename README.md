@@ -39,3 +39,34 @@ react-project/
 ├── index.html
 ├── package.json
 └── README.md
+
+
+---
+
+## 💡 What I Learned
+
+- React components and props
+- State management
+- Project structuring
+- Running local development server
+- Git workflow (add, commit, push)
+
+---
+
+## 🌟 Future Improvements
+
+- Add routing
+- Add more interactive features
+- Improve UI design
+- Deploy project online
+
+---
+
+## 👩‍💻 Author
+
+Mahak Kesarwani  
+BCA Student | Aspiring Software Developer  
+
+---
+
+⭐ If you like this project, give it a star!
