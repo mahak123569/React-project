@@ -1,15 +1,30 @@
-# React + Vite
+# 🚀 React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern React-based web application built using Vite.  
+This project demonstrates component-based architecture, reusable UI, and clean structure.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Features
 
-## React Compiler
+- ⚛️ Built with React
+- ⚡ Fast development using Vite
+- 📂 Component-based structure
+- 🎨 Clean and responsive UI
+- 🔁 Reusable components
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
-this new
+## 🛠️ Tech Stack
+
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Vite
+- Node.js
+- Git & GitHub
+
+---
+
+## 📁 Project Structure
