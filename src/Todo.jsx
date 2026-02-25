@@ -1,7 +1,7 @@
 function Todo() {
   return (
     <div>
-      hello todo welcome to react
+      hello todo jsx 
       <h1>Hedy Lamarr's Todos</h1>
       <img
         src="https://i.imgur.com/yXOvdOSs.jpg"
