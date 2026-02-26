@@ -8,6 +8,7 @@ function Todo() {
         alt="Hedy Lamarr"
         className="photo"
       />
+      /* para */
       <ul>
         <li>Invent new traffic lights</li>
         <li>Rehearse a movie scene</li>
